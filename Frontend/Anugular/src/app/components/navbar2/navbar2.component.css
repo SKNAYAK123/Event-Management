@@ -1,0 +1,23 @@
+.navbar {
+    background: rgb(125, 5, 161);
+    
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.cust {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+.show{
+    padding-right: 30px;
+}
+.but:hover{
+	color: #25e41e;
+    
+}

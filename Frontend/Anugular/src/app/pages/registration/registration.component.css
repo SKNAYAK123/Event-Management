@@ -1,0 +1,33 @@
+.con2 {
+    width: 50%;
+    margin: auto;
+    background-color: aliceblue;
+    margin-top: 5em;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+.container-fluid{
+    background-color: #0dcaf0;
+    background-size: cover;
+    margin-top: 0px;
+    position:absolute;
+}
+.btn{
+    background-color: rgb(125, 5, 161);
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.btn2{
+    background-color: rgb(95, 47, 141);
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.navbarc{
+    position: fixed;
+    width: 100%;
+}
